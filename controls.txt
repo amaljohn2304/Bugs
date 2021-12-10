@@ -1,0 +1,7 @@
+W/A/S/D-Movement
+LSHIFT-teleport 3 blocks
+
+Play withing engine, files havent been compiled
+
+
+All materials are original, except for music.

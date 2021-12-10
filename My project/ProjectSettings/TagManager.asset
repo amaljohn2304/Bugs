@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - blue_drop
+  - mud_drop
+  - toxic
+  - player
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 4231602843
+    locked: 0
+  - name: fore_drop
+    uniqueID: 2276603961
+    locked: 0
+  - name: back_drop
+    uniqueID: 4232009285
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
